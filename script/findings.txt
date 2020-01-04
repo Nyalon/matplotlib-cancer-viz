@@ -1,0 +1,5 @@
+Looking at the tumor volume change over time two treatments Capomulin, and Ramicane stood out showing significant reduction in tumor size over the 45 days. There was no evidence of treatments that were “moderately” effective they either seemed to work or follow the Placebo relatively closely. 
+
+Looking at the second scatter plot met sites over time. Capomulin, and Ramicane stood out again. However Stelasyn also seems to show promise keeping the met sites at bay. This is interesting because it performed very closely to the placebo in the tumor volume test. 
+
+Looking at all the graphs Ramicane seems to be the clear winner when it came to overall effectiveness, and works very  well in the first 20 days of treatment
