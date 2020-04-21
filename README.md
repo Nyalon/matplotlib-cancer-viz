@@ -1,6 +1,6 @@
 # Cancer Tumor Growth Analysis
 
-My objecteive was to compile, and analyze data pretaining to how different drug trials affected cancer tumor growth on rats. Using Pandas, and Matplotlib I was able to create a few insightful visualizations helping make decisions on which drug performed best. 
+My objecteive was to compile, and analyze data pertaining to how different drug trials affected cancer tumor growth on rats. Using Pandas, and Matplotlib I was able to create a few insightful visualizations helping make decisions on which drug performed best. 
 
 ### Tumor Growth Bar Graph
 
