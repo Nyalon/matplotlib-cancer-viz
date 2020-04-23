@@ -1,4 +1,4 @@
-# Cancer Tumor Growth Analysis
+# Tumor Growth Analysis
 
 My objecteive was to compile, and analyze data pertaining to how different drug trials affected cancer tumor growth on mice. Using Pandas, and Matplotlib I was able to create a few insightful visualizations helping make decisions on which drug performed best. 
 
@@ -8,12 +8,12 @@ My objecteive was to compile, and analyze data pertaining to how different drug 
 
 ### Mouse Survival Rate Plots
 
-![Survival Rate](https://raw.githubusercontent.com/Nyalon/matplotlib-cancer-viz/master/resources/survivalrate.png)
+![Survival Rate](https://raw.githubusercontent.com/Nyalon/pharma-cancer-drug-analysis/master/resources/fig3.png)
 
 
 ### Met Sites Plots
 
-![Survival Rate](https://raw.githubusercontent.com/Nyalon/matplotlib-cancer-viz/master/resources/metsites.png)
+![Met Sites](https://raw.githubusercontent.com/Nyalon/pharma-cancer-drug-analysis/master/resources/fig2.png)
 
 ### Analysis Findings
 
